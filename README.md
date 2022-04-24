@@ -38,7 +38,13 @@ The analysis of the election show that:
          **Image 3:** *You can see the script that was used to retrieve the number of votes for each candidate and the calculation to find the percentage of votes for each candidate. Once this data was retrieved, script was added to find the winner of the election based on the popular vote.*
 
 ## Election-Audit Summary
-The script created for the Election Audits has proven to be an efficient and helpful tool for auditing election results. Fortunately, it can be modified for any election.For example, if you run an election and want to include more data for analysis like the party affiliation of voters, the script can be modified to retrieve how many votes were placed by Democrats or Republicans as well as the percentage of votes that were cast by Democrats or Republicans.
+The script created for the Election Audits has proven to be an efficient and helpful tool for auditing election results. Fortunately, it can be modified for any election. For example, for any future election that provides the same data and is saved in a .csv file, this script can be easily modified to load a new file for analysis. Below is the current script for loading files into Python followed by script to save our analysis to a new file:
+
+![Image 4](https://user-images.githubusercontent.com/102122063/165001263-4a57e363-b716-42ae-8fa3-0c82bd22bf86.png)
+
+Once you’ve located your new file, if it is also located in the same “Resources” folder then you can simply replace "election_results.csv" with the new file name. If it is not in the same folder, then “Resources” or the path to your new folder will need to be updated. These changes will also trickle down to where and how you choose to save your analysis. In the current script, the analysis is saved to a text file, and if you wish to save a new file, then the location and name of the file will need to be changed. 
+
+There are some ways we can make this script go further. If you run an election and want to include more data for analysis like the party affiliation of voters, the script can be modified to retrieve how many votes were placed by Democrats or Republicans as well as the percentage of votes that were cast by Democrats or Republicans.
 
 If you were to utilize a similar data set where only the candidate, county, and votes were available, the script can also be modified to dive deeper. For example, the script can be written to analyze the number of votes each candidate received from a specific county as well as the percentage of votes. This modification may highlight the regions where candidates were most popular. 
 
