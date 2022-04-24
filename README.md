@@ -13,7 +13,7 @@ The analysis of the election show that:
 
 ![Image 1](https://user-images.githubusercontent.com/102122063/164992847-2dc2fabe-a60c-4ff7-a033-49197bc6e583.png)
 
-**Image 1:** *you can see the code that was used to retrieve the total number of votes*
+**Image 1:** *You can see the script that was used to retrieve the total number of votes*
 
 - The number of votes and percentage of total votes for each county in the precint were:
     - Jefferson county had 10.5% of the vote and casted 38,855 votes.
@@ -24,7 +24,7 @@ The analysis of the election show that:
     
 ![Image 2](https://user-images.githubusercontent.com/102122063/164992867-0a567250-1826-4bc9-94be-a14feb69aa42.png)
 
-**Image 2:** *you can see the code that was used to retrieve the county with the largest number of votes followed by the code to retrieve the number of votes for each county and the calculation to find the percentage of votes for each county.* 
+**Image 2:** *You can see the script that was used to retrieve the county with the largest number of votes followed by another script to retrieve the number of votes for each county and the calculation to find the percentage of votes for each county.* 
 
 - The candidate results were:
     - Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes.
@@ -35,6 +35,7 @@ The analysis of the election show that:
 
 ![Image 3](https://user-images.githubusercontent.com/102122063/164992885-d766b420-cba8-4645-a96c-a687f55a7b5e.png)
 
-**Image 3:** *you can see the code that was used to retrieve the number of votes for each candidate and the calculation to find the percentage of votes for each candidate. Once this data was retrieved, then there was coding added to find the winner of the election based on the popular vote.*
+**Image 3:** *You can see the script that was used to retrieve the number of votes for each candidate and the calculation to find the percentage of votes for each candidate. Once this data was retrieved, script was added to find the winner of the election based on the popular vote.*
 
 ## Election-Audit Summary
+The script created for the Election Audits has proven to be an efficient and helpful tool for auditing election results. Fortunately, it can be modified for any election.
