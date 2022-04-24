@@ -38,4 +38,9 @@ The analysis of the election show that:
          **Image 3:** *You can see the script that was used to retrieve the number of votes for each candidate and the calculation to find the percentage of votes for each candidate. Once this data was retrieved, script was added to find the winner of the election based on the popular vote.*
 
 ## Election-Audit Summary
-The script created for the Election Audits has proven to be an efficient and helpful tool for auditing election results. Fortunately, it can be modified for any election.
+The script created for the Election Audits has proven to be an efficient and helpful tool for auditing election results. Fortunately, it can be modified for any election.For example, if you run an election and want to include more data for analysis like the party affiliation of voters, the script can be modified to retrieve how many votes were placed by Democrats or Republicans as well as the percentage of votes that were cast by Democrats or Republicans.
+
+If you were to utilize a similar data set where only the candidate, county, and votes were available, the script can also be modified to dive deeper. For example, the script can be written to analyze the number of votes each candidate received from a specific county as well as the percentage of votes. This modification may highlight the regions where candidates were most popular. 
+
+This script can be easily utilized with only simple modifications to not only look at different data collected, yet also dive deeper into the current data provided. Having this script to build from can streamline data analysis processes for any future election audits. It can also save time, which will allow for the results to be announced quicker. 
+
