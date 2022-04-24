@@ -1,31 +1,26 @@
 # Election_Analysis
 
 ## Project Overview
-A Colorado Board of Elections employee has given you the following taks to complete the election audit of a recent local congressional election.
-
-1. Calculate the total number of votes cast.
-2. Get ta complete list of candidates who received votes. 
-3. Calculate the total number of votes each candidate received.
-4. Calculate the percentage of votes each candidate won.
-5. Determine the winner of the election based on popular vote.
+o	The Colorado Board of Elections has requested an audit of their recent local congressional election results. The following results were requested and included in the audit analysis: the total number of votes, the voting results from each county along with the county with the largest number of votes, the list of candidates who received votes, the total number of votes each candidate received along with the percentage of votes each candidate won, and the determination of the winner of the election based on popular vote.
 
 ## Resources
 - Data Source: election_results.csv
 - Software: Python 3.7.6, Visual Studio Code
 
-## Summary
+## Election-Audit Resuls
 The analysis of the election show that:
-- There were "x" votes cast in the election.
-- The candidates were:
-    - Candidate 1
-    - Candidate 2
-    - Candidate 3
+- There were 369,711 votes cast in the election.
+- The number of votes and percentage of total votes for each county in the precint were:
+    - Jefferson county had 10.5% of the vote and casted 38,855 votes.
+    - Denver county had 82.8% of the vote and casted 306,055 votes
+    - Arapahoe had 6.7% of the vote and casted 24,801 votes.
+-The county that had the largest number of votes was:
+    - Denver county with 82.8% of the vote and 306,055 number of votes.
 - The candidate results were:
-    - Candidate 1 received "x%" of the vote and "y" number of votes.
-    - Candidate 2 received "x%" of the vote and "y" number of votes.
-    - Candidate 3 received "x%" of the vote and "y" number of votes.
+    - Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes.
+    - Diana DeGette received 73.8% of the vote and 272,892 number of votes.
+    - Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
 - The winner of the election was:
-    - Candidate (1, 2, or 3), who recieved "x%" of the vote and "y" number of votes.
+    - Diana DeGette, who  received 73.8% of the vote and 272,892 number of votes.
 
-## Challenge Overview
-## Challenge Summary
+## Election-Audit Summary
